@@ -18,7 +18,7 @@
 
     <!-- Header -->
     <header class="masthead d-flex">
-      <div class="container text-center text-white my-auto">
+      <div class="container text-center text-white my-auto col-sm-6">
         <h1 class="mb-1 display-1">Welcome!</h1>
         <h3 class="mb-5 display-4">
           <em>Hi! I'm Magnus Andreasen. I'm a web developer and this is my website!</em>

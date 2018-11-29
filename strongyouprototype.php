@@ -47,7 +47,7 @@
 		  </div>
         </div>
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
-            <div class="foo  foo-3"><a class="btn btn-primary btn-xl js-scroll-trigger rounded-0" href="http://magnusandreasen.dk/strongyouprototype" target="_blank">Online Version</a></div>
+            <div class="foo  foo-3"><a class="btn btn-primary btn-xl js-scroll-trigger rounded-0" href="http://magnusmultimedia.dk/strongyou-prototype" target="_blank">Online Version</a></div>
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
             <div class="foo  foo-3">
 				<a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" href="portfolio.php">Back</a>

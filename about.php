@@ -25,9 +25,9 @@
 	</div>
     <div class="mb-5 mt-5">
       <div class="container">
-		<div class="row col-lg-12">
-			<img class="img-fluid mr-3" src="img/magnus-small.png" alt="">
-			<ul class="list-group col-3 mx-auto">
+		<div class="row col-lg-12 col-sm-6">
+			<img class="img-fluid mr-3 mb-3" src="img/magnus-small.png" alt="">
+			<ul class="list-group col-lg-3 mx-auto mb-3">
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				HTML
     				<span class="badge badge-primary badge-pill bg-primary">5/5</span>
@@ -45,7 +45,7 @@
     				<span class="badge badge-primary badge-pill bg-primary">4/5</span>
   				</li>
 			</ul>
-			<ul class="list-group col-3 mx-auto">
+			<ul class="list-group col-lg-3 mx-auto mb-3">
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				PHP
     				<span class="badge badge-primary badge-pill bg-primary">3/5</span>
@@ -63,7 +63,7 @@
     				<span class="badge badge-primary badge-pill bg-primary">5/5</span>
   				</li>
 			</ul>
-			<ul class="list-group col-3 mx-auto">
+			<ul class="list-group col-lg-3 mx-auto mb-3">
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				Photoshop
     				<span class="badge badge-primary badge-pill bg-primary">4/5</span>

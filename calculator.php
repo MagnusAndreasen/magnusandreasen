@@ -4,7 +4,7 @@
   <head>
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Strong You</title>
+  <title>Calculator</title>
   <?php include 'head.php';?>  
   </head>
 
@@ -19,35 +19,35 @@
     <!-- Portfolio -->
 	<div class="jumbotron jumbotron-fluid bg-primary">
   		<div class="container text-center text-white">
-    		<h1 class="display-3">Strong You</h1>
-    		<p class="lead">A fitness and health company.</p>
+    		<h1 class="display-3">Calculator</h1>
+    		<p class="lead">Making an online calculator.</p>
   		</div>
 	</div>
     <div class="mb-5 mt-5">
       <div class="container">
 		<div class="row justify-content-center mb-5">
-			<img class="img-fluid mr-3" src="img/strongyou-small.png" alt="">
+			<img class="img-fluid mr-3" src="img/lommeregner-small.png" alt="">
 		</div>
 		<hr>
 		  <div class="mt-4">
   			<dl class="row">
 				
   				<dt class="col-sm-3">About the Project</dt>
-  				<dd class="col-sm-9 mb-4">Strong You needed a website to launch their company. The website had to be created from scratch, although with some clear guidelines from the client.</dd>
+  				<dd class="col-sm-9 mb-4">A small school project and the objective was to make an online calculator that had at least 5 different calculating options.</dd>
 
   				<dt class="col-sm-3">Design</dt>
-  				<dd class="col-sm-9 mb-4">The design of the website is almost entirely based on the clients wishes of colours, layout and content.</dd>
+  				<dd class="col-sm-9 mb-4">The design is made as simple as possible. There is only a single element on this page and that is the calculator. Dark grey and white colours, so make a good contrast.</dd>
 
   				<dt class="col-sm-3">Development</dt>
-  				<dd class="col-sm-9 mb-4">The website has been made with Wordpress and been customized to fit the guidelines. The website also includes a functioning webshop.</dd>
+  				<dd class="col-sm-9 mb-4">The website is only built with PHP and some CSS styling.</dd>
 
   				<dt class="col-sm-3 text-truncate">Reflection</dt>
-  				<dd class="col-sm-9">A very difficult project, as this was the first time interacting with a client and trying to make their vision come true.</dd>
+  				<dd class="col-sm-9">An interesting project and I learned how you can use PHP in different ways, this one being as a calculator.</dd>
 			</dl>
 		  </div>
         </div>
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
-            <div class="foo  foo-3"><a class="btn btn-primary btn-xl js-scroll-trigger rounded-0" href="http://magnusmultimedia.dk/StrongYou" target="_blank">Online Version</a></div>
+            <div class="foo  foo-3"><a class="btn btn-primary btn-xl js-scroll-trigger rounded-0" href="http://magnusmultimedia.dk/lommeregner" target="_blank">Online Version</a></div>
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
             <div class="foo  foo-3">
 				<a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" href="portfolio.php">Back</a>

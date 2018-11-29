@@ -58,7 +58,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Politician Tweets</h5>
    				<p class="card-text">Designed and developed a website that showes the latest tweets from danish politicians. This was a school project! Built from scratch with Bootstrap and PHP and has elements of JavaScript in it.</p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="politiciantweets.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -66,7 +66,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Cocktail Guide</h5>
    				<p class="card-text">Designed and developed a cocktail recipe website as a school project! Built from scratch with Bootstrap and has elements of JavaScript and PHP in it.<br><br></p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="cocktailguide.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -74,7 +74,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Post It Board</h5>
    				<p class="card-text">Designed and developed a Post It Board website as a school project! Used PHP and JavaScript to build the site. Used the NoSql database Firebase to store all data.<br><br></p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="postitboard.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -82,7 +82,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Nordlið</h5>
    				<p class="card-text">Developed a page for the company Nordlið as part of a contest to become their next intern. I was among the 3 best contestants.<br><br></p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="nordlid.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -90,7 +90,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Portfolio</h5>
    				<p class="card-text">Designed and developed a portfolio website as a school project! Used HTML, CSS and JavaScript to build the site. This is the first complete website I have built.</p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="portfolio-old.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -98,7 +98,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Calculator</h5>
    				<p class="card-text">Developed a calculator website as a school project! Used HTML, CSS and JavaScript to build the site.<br><br><br></p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="calculator.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
         </div>
@@ -114,7 +114,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Café Fjørðoy Menu</h5>
    				<p class="card-text">Designed and developed a food menu and drinks menu for the café. The menu design was based on the website design. The menu was made with Adobe InDesign.</p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="hugo-menu.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -122,7 +122,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Café Fjørðoy Posters</h5>
    				<p class="card-text">Designed and developed posters for the café front door, counter and outside the café. The design was based on the website design. The poster was made with Adobe InDesign.</p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="hugo-posters.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="card col-lg-3 mb-3 mx-3 rounded-0" style="width: 18rem;">
@@ -130,7 +130,7 @@
   			<div class="card-body">
     			<h5 class="card-title text-center">Aires Menu</h5>
    				<p class="card-text">Designed and developed a menu as a school project! The menu design was based on the clients specifications. The menu was made with Adobe InDesign.</p>
-    			<a href="strongyou.php" class="btn btn-primary col rounded-0">See More</a>
+    			<a href="aires-menu.php" class="btn btn-primary col rounded-0">See More</a>
   			</div>
 		  </div>
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
