@@ -100,7 +100,10 @@
 		  </div>
         </div>	
 		  <div class="col-lg-10 mt-5 mx-auto text-center">
-            <div class="foo  foo-3"><a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" href="index.php">Back</a></div>
+            <div class="foo  foo-3">
+				<a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" href="index.php">Back</a>
+			  	<a class="btn btn-primary btn-xl js-scroll-trigger rounded-0" href="files/magnus_cv.pdf" target="_blank">Download my CV!</a>
+			</div>
           </div>
         </div>
       </div>
