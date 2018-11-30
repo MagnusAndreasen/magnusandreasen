@@ -17,7 +17,7 @@
             </a>
 			</li>
 			<li class="list-inline-item">
-				<a class="social-link rounded-circle text-white mb-3" data-toggle="modal" data-target="#emailme">
+				<a class="social-link rounded-circle text-white mb-3" href="mailto:info@magnusandreasen.com?Subject=Email%20From%20Website" target="_top">
               <i class="icon-envelope"></i>
             </a>
 			</li>
@@ -25,6 +25,8 @@
 		<p class="text-muted small mb-0">Copyright &copy; Magnus Andreasen 2018</p>
 	</div>
 </footer>
+
+<!-- put this in the contact button class data-toggle="modal" data-target="#emailme" -->
 
 <!-- Modal -->
 <div class="modal fade" id="emailme" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -36,9 +38,15 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-       <form action="mail.php" method="post">
-                        <div class="card border-primary rounded-0">
+      <!-- <div class="modal-body">
+	  	<form action="mail.php" method="POST">
+			<p>Name</p> <input type="text" name="name">
+			<p>Email</p> <input type="text" name="email">
+			<p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+			<input type="submit" value="Send"><input type="reset" value="Clear">
+		</form>
+        <form action="mailscript.php" method="post">
+                        <div class="card rounded-0">
                             <div class="card-header p-0">
                                 <div class="bg-info text-white text-center py-2">
                                     <h3>Send me an email</h3>
@@ -48,7 +56,7 @@
                             <div class="card-body p-3">
 
                                 <!--Body-->
-                                <div class="form-group">
+                               <!-- <div class="form-group">
                                     <div class="input-group mb-2">
                                         <div class="input-group-prepend">
                                             <div class="input-group-text"><i class="fa fa-user text-info"></i></div>
@@ -80,8 +88,8 @@
                             </div>
 
                         </div>
-						<hr>
-                    </form>
+					
+                    </form> -->
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
@@ -96,6 +104,8 @@
     </a>
 
     <!-- Bootstrap core JavaScript -->
+	<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 

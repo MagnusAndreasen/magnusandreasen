@@ -95,7 +95,7 @@
             <p class="text-faded mb-0">Need help with something technical? I'll do my best to help you!</p>
           </div>
         </div>
-	    <br><a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" data-toggle="modal" data-target="#emailme">Get in touch!</a>
+	    <br><a class="btn btn-dark btn-xl js-scroll-trigger rounded-0" href="mailto:info@magnusandreasen.com?Subject=Email%20From%20Website" target="_top"  >Get in touch!</a> <!-- data-toggle="modal" data-target="#emailme" -->
       </div>
     </section>
 	  
